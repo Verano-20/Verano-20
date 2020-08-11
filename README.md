@@ -1,16 +1,22 @@
-### Hi there 👋
+# *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="tick icon" width="30px" />
 
-<!--
-**Verano-20/Verano-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+LinkedIn: https://www.linkedin.com/in/samueldawson
 
-Here are some ideas to get you started:
+- BSc Physics Graduate & Award-Winning Researcher <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- Self-Taught Coder <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- Online Course Junkie <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- Employed <img src="https://github.com/Verano-20/Verano-20/blob/master/cross.png" alt="cross icon" width="20px" />
+- A young developer ready to break into the industry <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- A value generator for your company <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- Tech enthusiast, health conscious, gamer, home-brewer, adventurer, friend <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am I up to?
+#### Current Status:
+- Job Seeking!
+- CS50's Introduction to Artificial Intelligence with Python
+
+#### Previously:
+- CS50's Introduction to Computer Science
+- VBA (less time writing formulas, more time doing work!)
+- Python for Physics as part of my BSc
