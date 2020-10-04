@@ -15,6 +15,7 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 #### Current Status:
 - Job Seeking!
 - CS50's Introduction to Artificial Intelligence with Python
+- Kaggle
 
 #### Previously:
 - CS50's Introduction to Computer Science
