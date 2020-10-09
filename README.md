@@ -16,6 +16,7 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 - Job Seeking!
 - CS50's Introduction to Artificial Intelligence with Python
 - Kaggle
+- Book: God Emperor of Dune
 
 #### Previously:
 - CS50's Introduction to Computer Science
