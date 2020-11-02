@@ -14,9 +14,11 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 ### What am I up to?
 #### Current Status:
 - Job Seeking!
+- Hackerrank https://www.hackerrank.com/samdawson97
 - CS50's Introduction to Artificial Intelligence with Python
 - Kaggle
 - Book: God Emperor of Dune
+- Last word I learned: Qualia
 
 #### Previously:
 - CS50's Introduction to Computer Science
