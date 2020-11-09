@@ -15,12 +15,12 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 #### Current Status:
 - Job Seeking!
 - Hackerrank https://www.hackerrank.com/samdawson97
-- CS50's Introduction to Artificial Intelligence with Python
 - Kaggle
-- Book: God Emperor of Dune
-- Last word I learned: Qualia
+- Book: Foundation
+- New word: Qualia
 
 #### Previously:
+- CS50's Introduction to Artificial Intelligence with Python
 - CS50's Introduction to Computer Science
 - VBA (less time writing formulas, more time doing work!)
 - Python for Physics as part of my BSc
