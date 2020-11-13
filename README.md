@@ -15,6 +15,7 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 #### Current Status:
 - Job Seeking!
 - Hackerrank https://www.hackerrank.com/samdawson97
+- React JS
 - Kaggle
 - Book: Foundation
 - New word: Qualia
