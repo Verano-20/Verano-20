@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 - Hackerrank https://www.hackerrank.com/samdawson97
 - React JS
 - Kaggle
-- Book: Foundation
+- Book: Foundation and Empire
 - New word: Qualia
 
 #### Previously:
