@@ -15,9 +15,8 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 #### Current Status:
 - Job Seeking!
 - Hackerrank https://www.hackerrank.com/samdawson97
-- React JS
-- Kaggle
-- Book: Foundation and Empire
+- Full Stack Web Development - MERN Stack (mongoDB, express.js, react, node.js)
+- Book: Second Foundation
 - New word: Qualia
 
 #### Previously:
