@@ -9,6 +9,7 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 
 ### Technologies and Experience
 | Python | Javascript | HTML5 | CSS3 |
+|--- |--- |--- |
 | Node.js | MongoDB | Flask | SQLite |
 | Git | Jira |
 | TensorFlow | Scikit-Learn |
