@@ -8,17 +8,13 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 - Employed <img src="https://github.com/Verano-20/Verano-20/blob/master/cross.png" alt="cross icon" width="20px" />
 
 ### Technologies and Experience
-|Python|Javascript|HTML5|CSS3|
-|Node.js|MongoDB|Flask|SQLite|
-|Git|Jira|
-|TensorFlow|Scikit-Learn|
-
-|Month|Savings|Spending|
-|January|$100|$900|
-|July|$750|$1000|
-|December|$250|$300|
-|April|$400|$700|
-
+|Languages|Web Tools|Project Tools|Databases|
+|---|---|---|---|
+|Python|Node.js|Git|MongoDB|
+|Javascript|Express|Jira|SQLite|
+|HTML5|jQuery|Heroku||
+|CSS3|Flask|||
+|C||||
 
 ### What am I up to?
 #### Latest Project
