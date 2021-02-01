@@ -13,6 +13,14 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 | Git | Jira |
 | TensorFlow | Scikit-Learn |
 
+|Month|Savings|Spending|
+|--- |--- |--- |
+|January|$100|$900|
+|July|$750|$1000|
+|December|$250|$300|
+|April|$400|$700|
+
+
 ### What am I up to?
 #### Latest Project
 
