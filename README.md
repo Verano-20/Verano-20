@@ -16,14 +16,6 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 
 <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&logoWidth=40&labelColor=black"/> <img src="https://img.shields.io/badge/-SQLite-yellow?style=flat&logo=sqlite&logoWidth=40&labelColor=black"/>
 
-|Languages|Web Tools|Project Tools|Databases|
-|:---:|:---:|:---:|:---:|
-|<img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-Node.js-orange?style=flat&logo=node.js&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-Git-green?style=flat&logo=git&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&logoWidth=40&labelColor=black"/>|
-|<img src="https://img.shields.io/badge/-Javascript-blue?style=flat&logo=javascript&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-Express-orange?style=flat&logo=express&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-Jira-green?style=flat&logo=jira&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-SQLite-yellow?style=flat&logo=sqlite&logoWidth=40&labelColor=black"/>|
-|<img src="https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-jQuery-orange?style=flat&logo=jquery&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-Heroku-green?style=flat&logo=heroku&logoWidth=40&labelColor=black"/>||
-|<img src="https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoWidth=40&labelColor=black"/>|<img src="https://img.shields.io/badge/-Flask-orange?style=flat&logo=flask&logoWidth=40&labelColor=black"/>|||
-|<img src="https://img.shields.io/badge/-C-blue?style=flat&logo=c&logoWidth=40&labelColor=black"/>||||
-
 ### What am I up to?
 #### Latest Project
 
