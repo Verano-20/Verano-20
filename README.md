@@ -16,14 +16,14 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 
 <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongodb&logoWidth=40&labelColor=black"/> <img src="https://img.shields.io/badge/-SQLite-yellow?style=flat&logo=sqlite&logoWidth=40&labelColor=black"/>
 
-### What am I up to?
-#### Latest Project
-
+### Latest Project: http://samdawson.herokuapp.com/
+Check out my first deployed full-stack web application! It is a to-do list built with the MERN stack and deployed on Heroku.  
+Click the link above to go directly to the site or go to the 'MERN-List' repo below to see the code and README.  
 
 #### Current Status:
 - Job Seeking!
 - Hackerrank https://www.hackerrank.com/samdawson97
-- Full Stack Web Development - MERN Stack (mongoDB, express.js, react, node.js)
+- Full Stack Web Development - MERN Stack (MongoDB, Express, React.js, Node.js)
 - Book: Foundation's Edge
 
 #### Previously:
