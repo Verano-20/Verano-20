@@ -22,8 +22,8 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 
 #### Current Status:
 - Job Seeking!
-- Hackerrank https://www.hackerrank.com/samdawson97
 - Full Stack Web Development - MERN Stack (MongoDB, Express, React.js, Node.js)
+- Hackerrank https://www.hackerrank.com/samdawson97
 - Book: Foundation's Edge
 
 #### Previously:
