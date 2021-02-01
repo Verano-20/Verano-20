@@ -8,10 +8,10 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 - Employed <img src="https://github.com/Verano-20/Verano-20/blob/master/cross.png" alt="cross icon" width="20px" />
 
 ### Technologies and Experience
-Python - Javascript - HTML5 - CSS3 - C  
-Node.js - MongoDB - Flask - SQLite  
-Git - Jira  
-TensorFlow - Scikit-Learn
+| Python | Javascript | HTML5 | CSS3 |
+| Node.js | MongoDB | Flask | SQLite |
+| Git | Jira |
+| TensorFlow | Scikit-Learn |
 
 ### What am I up to?
 #### Latest Project
