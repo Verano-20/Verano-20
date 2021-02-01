@@ -9,12 +9,12 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 
 ### Technologies and Experience
 |Languages|Web Tools|Project Tools|Databases|
-|---|---|---|---|
-|Python|Node.js|Git|MongoDB|
-|Javascript|Express|Jira|SQLite|
-|HTML5|jQuery|Heroku||
-|CSS3|Flask|||
-|C||||
+|:---:|:---:|:---:|:---:|
+|<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"/>|<img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js"/>|<img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"/>|<img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb"/>|
+|<img src="https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript"/>|<img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express"/>|<img src="https://img.shields.io/badge/-Jira-black?style=flat&logo=jira"/>|<img src="https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite"/>|
+|<img src="https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5"/>|<img src="https://img.shields.io/badge/-jQuery-black?style=flat&logo=jquery"/>|<img src="https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku"/>||
+|<img src="https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3"/>|<img src="https://img.shields.io/badge/-Flask-black?style=flat&logo=flask"/>|||
+|<img src="https://img.shields.io/badge/-C-black?style=flat&logo=c"/>||||
 
 ### What am I up to?
 #### Latest Project
