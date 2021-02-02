@@ -1,7 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verano-20&hide=contribs&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verano-20&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Verano-20&hide=contribs&count_private=true&show_icons=true&theme=slateorange"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verano-20&layout=compact&theme=slateorange"/>
+</p>
 
-# *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="tick icon" width="30px" />
+<h1 align="center">Welcome to my profile!</h1>
 
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
 
