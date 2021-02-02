@@ -17,7 +17,9 @@
 Check out my first deployed full-stack web application! It is a To-Do List built with the MERN stack and deployed on Heroku.  
 Click the link above to go directly to the site or go to the 'MERN-List' repo below to see the code and README.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verano-20&repo=MERN-List&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Verano-20/MERN-List">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verano-20&repo=MERN-List&theme=slateorange"/>
+</a>
 
 ### Technologies and Tools
 <img src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=plastic&logo=javascript&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-HTML5-blue?style=plastic&logo=html5&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=css3&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-C-blue?style=plastic&logo=c&logoWidth=20&labelColor=black"/>
