@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Verano-20&hide=contribs&count_private=true&show_icons=true&theme=slateorange"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verano-20&layout=compact&theme=slateorange"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verano-20&hide=contribs&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verano-20&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1 align="center">Welcome to my profile!</h1>
+# *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="tick icon" width="30px" />
 
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
 
@@ -38,4 +36,3 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 - CS50's Introduction to Computer Science
 - VBA (less time writing formulas, more time doing work!)
 - Python for Physics as part of my BSc
-
