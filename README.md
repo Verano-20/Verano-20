@@ -10,7 +10,7 @@
 Check out my first deployed full-stack web application! It is a To-Do List built with the MERN stack and deployed on Heroku.  
 Click the link above to go directly to the site or go to the 'MERN-List' repo below to see the code and README.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verano-20&repo=MERN-List)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Verano-20&repo=MERN-List&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies and Tools
 <img src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=plastic&logo=javascript&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-HTML5-blue?style=plastic&logo=html5&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=css3&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-C-blue?style=plastic&logo=c&logoWidth=20&labelColor=black"/>
@@ -21,7 +21,7 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 
 <img src="https://img.shields.io/badge/-MongoDB-yellow?style=plastic&logo=mongodb&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-SQLite-yellow?style=plastic&logo=sqlite&logoWidth=20&labelColor=black"/>
 
-#### Current Status:
+### Current Status:
 - Job Seeking!
 - Full Stack Web Development - MERN Stack (MongoDB, Express, React.js, Node.js)
 - Hackerrank https://www.hackerrank.com/samdawson97
@@ -33,3 +33,9 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 - CS50's Introduction to Computer Science
 - VBA (less time writing formulas, more time doing work!)
 - Python for Physics as part of my BSc
+
+### Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Verano-20&hide=contribs&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Verano-20&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
+
+
