@@ -13,6 +13,8 @@
 - BSc Physics Graduate & Award-Winning Researcher <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 - Actively Seeking Roles <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 
+<hr>
+
 ### Latest Project: http://samdawson.herokuapp.com/
 Check out my first deployed full-stack web application! It is a To-Do List built with the MERN stack and deployed on Heroku.  
 Click the link above to go directly to the site or go to the 'MERN-List' repo below to see the code and README.
@@ -20,6 +22,8 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 <a href="https://github.com/Verano-20/MERN-List">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Verano-20&repo=MERN-List&theme=slateorange"/>
 </a>
+
+<hr>
 
 ### Technologies and Tools
 <img src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=plastic&logo=javascript&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-HTML5-blue?style=plastic&logo=html5&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=css3&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-C-blue?style=plastic&logo=c&logoWidth=20&labelColor=black"/>
@@ -29,6 +33,8 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 <img src="https://img.shields.io/badge/-Git-green?style=plastic&logo=git&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Jira-green?style=plastic&logo=jira&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Heroku-green?style=plastic&logo=heroku&logoWidth=20&labelColor=black"/>
 
 <img src="https://img.shields.io/badge/-MongoDB-yellow?style=plastic&logo=mongodb&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-SQLite-yellow?style=plastic&logo=sqlite&logoWidth=20&labelColor=black"/>
+
+<hr>
 
 ### Current Status:
 - Job Seeking!
