@@ -10,6 +10,7 @@
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
 
 - Full-Stack Web Developer <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- Competent Python programmer with AI experience <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 - BSc Physics Graduate & Award-Winning Researcher <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 - Actively Seeking Roles <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 
