@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verano-20&layout=compact&theme=slateorange" height="150px" />
 </a>
 
-# *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="tick icon" width="30px" />
+# *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="profile icon" width="30px" />
 
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
 
