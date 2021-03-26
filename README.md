@@ -12,7 +12,6 @@
 - Full-Stack Web Developer <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 - Competent Python programmer with AI experience <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 - BSc Physics Graduate & Award-Winning Researcher <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
-- Actively Seeking Roles <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 
 <hr>
 
@@ -38,13 +37,12 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 <hr>
 
 ### Current Status:
-- Job Seeking!
-- Full Stack Web Development - MERN Stack (MongoDB, Express, React.js, Node.js)
+- Full Stack Web Development
 - Hackerrank https://www.hackerrank.com/samdawson97
-- Book: Foundation's Edge
+- Book: Foundation and Earth
 
 #### Previously:
-- EdYoda: HTML5, CSS3, Javascript - Basics to Advanced
+- EdYoda: HTML5, CSS3, Javascript, React - Basics to Advanced
 - CS50's Introduction to Artificial Intelligence with Python
 - CS50's Introduction to Computer Science
 - VBA (less time writing formulas, more time doing work!)
