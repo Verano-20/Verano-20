@@ -6,7 +6,7 @@
 </a>
 
 # *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="profile icon" width="30px" />
-<hr>
+
 # Software Developer at Zedify UK  
 
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
