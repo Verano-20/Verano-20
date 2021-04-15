@@ -1,3 +1,5 @@
+# Software Developer at Zedify UK  
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Verano-20&hide=contribs&count_private=true&show_icons=true&theme=slateorange" height="150px" />
 </a>
@@ -6,8 +8,6 @@
 </a>
 
 # *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="profile icon" width="30px" />
-
-# Software Developer at Zedify UK  
 
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
 
