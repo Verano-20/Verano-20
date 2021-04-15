@@ -6,6 +6,8 @@
 </a>
 
 # *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="profile icon" width="30px" />
+<hr>
+# Software Developer at Zedify UK  
 
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
 
@@ -39,7 +41,7 @@ Click the link above to go directly to the site or go to the 'MERN-List' repo be
 ### Current Status:
 - Full Stack Web Development
 - Hackerrank https://www.hackerrank.com/samdawson97
-- Book: Foundation and Earth
+- Book: Prelude to Foundation
 
 #### Previously:
 - EdYoda: HTML5, CSS3, Javascript, React - Basics to Advanced
