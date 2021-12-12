@@ -22,8 +22,6 @@
 
 <img src="https://img.shields.io/badge/-Spring-orange?style=plastic&logo=spring&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Wicket-orange?style=plastic&logo=wicket&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Apache_Isis-orange?style=plastic&logo=apache_isis&logoWidth=20&labelColor=black"/>
 
-<img src="https://img.shields.io/badge/-Node.js-orange?style=plastic&logo=node.js&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Express-orange?style=plastic&logo=express&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-jQuery-orange?style=plastic&logo=jquery&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Flask-orange?style=plastic&logo=flask&logoWidth=20&labelColor=black"/>
-
 <img src="https://img.shields.io/badge/-Git-green?style=plastic&logo=git&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Jira-green?style=plastic&logo=jira&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Bitbucket-green?style=plastic&logo=bitbucket&logoWidth=20&labelColor=black"/>
 
 <img src="https://img.shields.io/badge/-MySQL-yellow?style=plastic&logo=mysql&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=plastic&logo=mongodb&logoWidth=20&labelColor=black"/>
