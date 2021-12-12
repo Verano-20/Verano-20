@@ -11,8 +11,8 @@
 
 ### LinkedIn: https://www.linkedin.com/in/samueldawson
 
-- Full-Stack Web Developer <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
-- Primarily coding in Java using Spring Boot, Apache Isis, Apache Wicket <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- Java Developer <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+- Full-Stack Web Development using Spring Boot, Apache Isis, Apache Wicket <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 - BSc Physics Graduate & Award-Winning Researcher <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
 
 <hr>
