@@ -20,7 +20,7 @@
 ### Technologies and Tools
 <img src="https://img.shields.io/badge/-Java-blue?style=plastic&logo=java&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=plastic&logo=javascript&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-HTML5-blue?style=plastic&logo=html5&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=css3&logoWidth=20&labelColor=black"/>
 
-<img src="https://img.shields.io/badge/-Spring_Boot-orange?style=plastic&logo=spring_boot&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Apache_Wicket-orange?style=plastic&logo=apache_wicket&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Apache_Isis-orange?style=plastic&logo=apache_isis&logoWidth=20&labelColor=black"/>
+<img src="https://img.shields.io/badge/-Spring-orange?style=plastic&logo=spring&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Apache_Wicket-orange?style=plastic&logo=apache_wicket&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Apache_Isis-orange?style=plastic&logo=apache_isis&logoWidth=20&labelColor=black"/>
 
 <img src="https://img.shields.io/badge/-Node.js-orange?style=plastic&logo=node.js&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Express-orange?style=plastic&logo=express&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-jQuery-orange?style=plastic&logo=jquery&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Flask-orange?style=plastic&logo=flask&logoWidth=20&labelColor=black"/>
 
