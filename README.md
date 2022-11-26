@@ -9,21 +9,19 @@
 
 # *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="profile icon" width="30px" />
 
-### LinkedIn: https://www.linkedin.com/in/samueldawson
+A backend / full stack developer with experience building webapps using a microservices architecture.
 
-- Java Developer <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
-- Full-Stack Web Development using Spring Boot, Apache Isis, Apache Wicket <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
-- BSc Physics Graduate & Award-Winning Researcher <img src="https://github.com/Verano-20/Verano-20/blob/master/tick.png" alt="tick icon" width="20px" />
+LinkedIn: https://www.linkedin.com/in/samueldawson
 
 <hr>
 
-### Technologies and Tools
-<img src="https://img.shields.io/badge/-Java-blue?style=plastic&logo=java&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Javascript-blue?style=plastic&logo=javascript&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-HTML5-blue?style=plastic&logo=html5&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-CSS3-blue?style=plastic&logo=css3&logoWidth=20&labelColor=black"/>
+### Technologies
+<img src="https://img.shields.io/badge/-Java-ED8B00?style=plastic&logo=java&logoWidth=20"/> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=plastic&logo=spring&logoWidth=20&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/-Spring-orange?style=plastic&logo=spring&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Wicket-orange?style=plastic&logo=wicket&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Apache_Isis-orange?style=plastic&logo=apache_isis&logoWidth=20&labelColor=black"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoWidth=20&logoColor=black"/> <img src="https://img.shields.io/badge/-Vue.js-35495E?style=plastic&logo=vue&logoWidth=20&logoColor=4FC08D"/> 
 
-<img src="https://img.shields.io/badge/-Git-green?style=plastic&logo=git&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Jira-green?style=plastic&logo=jira&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-Bitbucket-green?style=plastic&logo=bitbucket&logoWidth=20&labelColor=black"/>
+<img src="https://img.shields.io/badge/-MySQL-00000F?style=plastic&logo=mysql&logoWidth=20&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/-MySQL-yellow?style=plastic&logo=mysql&logoWidth=20&labelColor=black"/> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=plastic&logo=mongodb&logoWidth=20&labelColor=black"/>
+<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=plastic&logo=bitbucket&logoWidth=20&logoColor=white"/>
 
 <hr>
