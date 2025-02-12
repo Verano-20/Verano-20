@@ -1,4 +1,4 @@
-# Software Developer at Zedify UK  
+# Software Developer
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Verano-20&hide=contribs&count_private=true&show_icons=true&theme=slateorange" height="150px" />
@@ -9,7 +9,9 @@
 
 # *Welcome to my profile!* <img src="https://github.com/Verano-20/Verano-20/blob/master/profile.png" alt="profile icon" width="30px" />
 
-A backend / full stack developer with experience building webapps using a microservices architecture.
+Results-driven Software Engineer with 4 years of startup experience designing, scaling, and optimising high-impact applications. Proven ability to lead complex projects, architect scalable solutions, and drive measurable business impact.
+
+Technical excellence in Java Spring Boot, Python, Typescript, Cloud Technologies, System Design, and Data Engineering.
 
 LinkedIn: https://www.linkedin.com/in/samueldawson
 
