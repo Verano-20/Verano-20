@@ -1,6 +1,6 @@
 # *Welcome to my profile!*
 
-I am a results-driven Software Engineer with 4 years of startup experience designing, scaling, and optimising high-impact applications. Proven ability to lead complex projects, architect scalable solutions, and drive measurable business impact.
+I'm Sam, a results-driven Software Engineer with 4 years of startup experience designing, scaling, and optimising high-impact applications. Proven ability to lead complex projects, architect scalable solutions, and drive measurable business impact.
 
 Technical excellence in Java Spring Boot, Python, Typescript, Cloud Technologies, System Design, and Data Engineering.
 
