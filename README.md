@@ -12,7 +12,7 @@ LinkedIn: https://www.linkedin.com/in/samueldawson
 
 ### Projects
 
-Currently exploring Go for backend web development: <a href="https://github.com/Verano-20/go-crud">Go-CRUD</a>
+A production-ready CRUD app written in Go, showcasing all of my experience in backend web development: <a href="https://github.com/Verano-20/go-crud">Stage-Zero</a>
 
 Marketing site for a family business, built with Typescript & Next.js: <a href="https://dawsonmortgages.co.uk">Dawson Mortgages Ltd</a>
 
